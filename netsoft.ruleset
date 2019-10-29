@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="Netsoft Solutions RuleSet" Description="Netsoft Solutions RuleSet" ToolsVersion="15.0">
+  <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers">
+    <Rule Id="SA1027" Action="None" />
+    <Rule Id="SA1101" Action="Error" />
+    <Rule Id="SA1118" Action="None" />
+    <Rule Id="SA1124" Action="None" />
+    <Rule Id="SA1200" Action="Error" />
+    <Rule Id="SA1201" Action="Error" />
+    <Rule Id="SA1300" Action="Error" />
+    <Rule Id="SA1309" Action="Error" />
+    <Rule Id="SA1633" Action="None" />
+    <Rule Id="SA1652" Action="None" />
+  </Rules>
+</RuleSet>
