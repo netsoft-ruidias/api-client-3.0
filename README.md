@@ -172,7 +172,7 @@ public static class ServiceConfigExtensions
 }
 ```
 
-Reference or install que ClientDSK package and use their own extension to configure the client, like this:
+Reference or install the ClientDSK package and use their own extension to configure the client, like this:
 
 ```csharp
 public static class ServiceConfigExtensions
@@ -280,4 +280,4 @@ Thanks for taking an interest in the library and the github community!
 3. Make a pull request
 
 ## Licence
-[MIT](https://github.com/joshwcomeau/flip-move/blob/master/LICENSE.md)
+[MIT](https://github.com/netsoft-ruidias/api-client-3.0/blob/master/LICENSE)
