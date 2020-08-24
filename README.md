@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/netsoft-ruidias/api-client-3.0)
+![.Net Core Version](https://img.shields.io/badge/.NET%20Core-3.0-green)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/netsoft-ruidias/api-client-3.0/.NET%20Core)
+![GitHub last commit](https://img.shields.io/github/last-commit/netsoft-ruidias/api-client-3.0)
+
 # Netsoft Infrastructure API Client 3.0
 
 Common HTTP interfaces for API "client side" support   
